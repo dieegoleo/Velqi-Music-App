@@ -71,17 +71,7 @@ class SongDownloadButton extends StatelessWidget {
                         color: Theme.of(context).textTheme.titleMedium!.color,
                       ),
                       onPressed: () {
-                        (Hive.openBox("SongsCache").then((box) {
-                          if (box.containsKey(song.id)) {
-                            if (!context.mounted) return;
-                            Navigator.of(context).pop();
-                            ScaffoldMessenger.of(context).showSnackBar(snackbar(
-                                context, "songAlreadyOfflineAlert".tr,
-                                size: SanckBarSize.BIG));
-                          } else {
-                            downloader.download(song);
-                          }
-                        }));
+                        downloader.download(song);
                       },
                     );
     });
