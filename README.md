@@ -14,7 +14,7 @@
 
 ## Español
 
-Velqi es una app de música que hice para escuchar YouTube Music sin anuncios, sin cuenta y sin rastreo. La idea nació de querer tener algo limpio, rápido y sin las restricciones típicas de las apps de streaming.
+Velqi es una app de música que hice para escuchar YouTube Music sin anuncios, sin cuenta y sin rastreo.
 
 ### Descarga
 
