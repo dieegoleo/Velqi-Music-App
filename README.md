@@ -1,8 +1,8 @@
-<div align="center">
-
-<img src="assets/velqi.png" width="110" alt="Velqi Logo"/>
+<img src="cover.png" width="1200" alt="Velqi — Free Music Streaming"/>
 
 # Velqi
+
+<div align="center">
 
 [![Release](https://img.shields.io/github/v/release/dieegoleo/Velqi-Music-App?color=7C3AED&label=Release&style=flat-square)](https://github.com/dieegoleo/Velqi-Music-App/releases/latest)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
@@ -18,7 +18,7 @@ Velqi es una app de música que hice para escuchar YouTube Music sin anuncios, s
 
 ### Descarga
 
-Ve a la sección de [Releases](https://github.com/dieegoleo/Velqi-Music-App/releases/latest) y descarga el APK según tu dispositivo:
+<a href="https://github.com/dieegoleo/Velqi-Music-App/releases/latest"><img src="https://github.com/anandnet/Harmony-Music/blob/main/don_github.png" width="250" alt="Get it on GitHub"/></a>
 
 | Archivo | Para quién |
 |---------|-----------|
@@ -53,15 +53,11 @@ Decidí lanzar primero la versión de Android porque la versión de escritorio (
 
 En cuanto a iOS, un port es técnicamente muy complicado: iOS no permite ejecutar intérpretes de Python embebidos ni servidores HTTP locales dentro de la app, que es exactamente la arquitectura que usa Velqi para funcionar. No es algo que se pueda solucionar fácilmente sin reescribir toda la capa de backend.
 
-### Arquitectura
+### Traducciones
 
-Velqi corre un microservicio Python local dentro del proceso de la app, sin servidores externos ni dependencias en la nube:
+Velqi soporta más de 40 idiomas. Si quieres ayudar a mejorar o agregar una traducción, puedes editar los archivos en la carpeta [`localization/`](localization/).
 
-```
-Flutter UI  ←— HTTP local —→  Python Backend
-                                  ├── yt-dlp      → resolución de streams
-                                  └── ytmusicapi  → búsqueda, browse, metadata
-```
+`Árabe` `Azerbaiyano` `Bengalí` `Búlgaro` `Catalán` `Checo` `Chino (Simplificado)` `Chino (Tradicional)` `Coreano` `Croata` `Eslovaco` `Español` `Esperanto` `Estonio` `Euskera` `Filipino` `Finlandés` `Francés` `Gaélico` `Gallego` `Hindi` `Holandés` `Húngaro` `Indonesio` `Inglés` `Interlengua` `Irlandés` `Italiano` `Japonés` `Kannada` `Jemer` `Kurdo` `Malayalam` `Birmano` `Noruego` `Oriya` `Persa` `Polaco` `Portugués` `Punjabi` `Rumano` `Ruso` `Serbio` `Sueco` `Tamil` `Telugu` `Turco` `Ucraniano` `Urdu` `Vietnamita`
 
 ### Solución de problemas
 
@@ -93,7 +89,7 @@ Velqi is a music app I built to stream YouTube Music without ads, without an acc
 
 ### Download
 
-Head to the [Releases](https://github.com/dieegoleo/Velqi-Music-App/releases/latest) page and download the APK for your device:
+<a href="https://github.com/dieegoleo/Velqi-Music-App/releases/latest"><img src="https://github.com/anandnet/Harmony-Music/blob/main/don_github.png" width="250" alt="Get it on GitHub"/></a>
 
 | File | For |
 |------|-----|
@@ -128,15 +124,11 @@ I'm releasing Android first because the desktop version (Windows/Linux) still ha
 
 As for iOS — a port is technically very difficult. iOS doesn't allow running embedded Python interpreters or local HTTP servers inside app processes, which is exactly how Velqi's backend works. It's not something that can be easily fixed without rewriting the entire backend layer.
 
-### Architecture
+### Translation
 
-Velqi runs a local Python microservice inside the app process — no external servers, no cloud dependency:
+Velqi supports 40+ languages. If you'd like to help improve or add a translation, edit the files in the [`localization/`](localization/) folder.
 
-```
-Flutter UI  ←— local HTTP —→  Python Backend
-                                  ├── yt-dlp      → stream resolution
-                                  └── ytmusicapi  → search, browse, metadata
-```
+`Arabic` `Azerbaijani` `Bengali` `Bulgarian` `Catalan` `Chinese (Simplified)` `Chinese (Traditional)` `Croatian` `Czech` `Dutch` `English` `Esperanto` `Estonian` `Basque` `Fijian` `Filipino` `Finnish` `French` `Galician` `German` `Hindi` `Hungarian` `Indonesian` `Interlingua` `Irish` `Italian` `Japanese` `Kannada` `Khmer` `Korean` `Kurdish` `Burmese` `Malayalam` `Norwegian` `Oriya` `Persian` `Polish` `Portuguese` `Punjabi` `Romanian` `Russian` `Serbian` `Slovak` `Spanish` `Swedish` `Tamil` `Telugu` `Turkish` `Ukrainian` `Urdu` `Vietnamese`
 
 ### Troubleshooting
 
