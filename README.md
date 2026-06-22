@@ -53,9 +53,6 @@ Velqi soporta 50 idiomas. Si quieres ayudar a mejorar o agregar una traducción,
 
 ### Solución de problemas
 
-**La reproducción se detiene al apagar la pantalla:**
-Ve a los ajustes de batería de tu teléfono y pon Velqi en modo **Sin restricciones**, o activa "Ignorar optimización de batería" desde los ajustes dentro de la app.
-
 **Pantalla de carga larga al primer arranque:**
 Es normal. El primer inicio inicializa el motor de audio embebido (~15–30s según el dispositivo). Los arranques siguientes son casi instantáneos.
 
