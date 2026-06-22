@@ -49,7 +49,9 @@ Velqi soporta 50 idiomas. Si quieres ayudar a mejorar o agregar una traducción,
 
 `Árabe` `Azerbaiyano` `Bengalí` `Búlgaro` `Birmano` `Catalán` `Checo` `Chino (Simplificado)` `Chino (Tradicional)` `Coreano` `Croata` `Eslovaco` `Español` `Esperanto` `Estonio` `Euskera` `Fiyiano` `Filipino` `Finlandés` `Francés` `Gaélico` `Gallego` `Alemán` `Hindi` `Holandés` `Húngaro` `Indonesio` `Inglés` `Interlengua` `Irlandés` `Italiano` `Japonés` `Kannada` `Jemer` `Kurdo` `Malayalam` `Noruego` `Oriya` `Persa` `Polaco` `Portugués` `Punjabi` `Rumano` `Ruso` `Serbio` `Sueco` `Tamil` `Telugu` `Turco` `Ucraniano` `Urdu` `Vietnamita`
 
-### Solución de problemas
+### Solución de problemas 
+
+**Corregí el error que ocurría al descargar una canción que ya estaba en la caché y desactivé el almacenamiento en caché por defecto.**
 
 **Pantalla de carga larga al primer arranque:**
 Es normal. El primer inicio inicializa el motor de audio embebido (~15–30s según el dispositivo). Los arranques siguientes son casi instantáneos.
