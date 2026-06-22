@@ -29,8 +29,6 @@ Velqi es una app de música que hice para escuchar YouTube Music sin anuncios, s
 - Caché automático de canciones.
 - Descarga offline.
 - Reproductor en segundo plano con controles en la notificación.
-- Crossfade entre canciones.
-- Ecualizador integrado.
 - Radio automática desde cualquier canción, artista o álbum.
 - Temporizador de sueño.
 - Salto de silencio.
