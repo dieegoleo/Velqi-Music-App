@@ -20,14 +20,6 @@ Velqi es una app de música que hice para escuchar YouTube Music sin anuncios, s
 
 <a href="https://github.com/dieegoleo/Velqi-Music-App/releases/latest"><img src="https://github.com/anandnet/Harmony-Music/blob/main/don_github.png" width="250" alt="Get it on GitHub"/></a>
 
-| Archivo | Para quién |
-|---------|-----------|
-| `Velqi-1.0.0-arm64.apk` | Teléfonos modernos — **recomendado** (2018+) |
-| `Velqi-1.0.0-armeabi-v7a.apk` | Teléfonos antiguos (32-bit) |
-| `Velqi-1.0.0-x86_64.apk` | Emuladores (BlueStacks, etc.) |
-
-Si no sabes cuál elegir, descarga el `arm64`.
-
 ### Funciones
 
 - Sin anuncios, nunca.
@@ -55,9 +47,9 @@ En cuanto a iOS, un port es técnicamente muy complicado: iOS no permite ejecuta
 
 ### Traducciones
 
-Velqi soporta más de 40 idiomas. Si quieres ayudar a mejorar o agregar una traducción, puedes editar los archivos en la carpeta [`localization/`](localization/).
+Velqi soporta 50 idiomas. Si quieres ayudar a mejorar o agregar una traducción, edita los archivos en la carpeta [`localization/`](localization/).
 
-`Árabe` `Azerbaiyano` `Bengalí` `Búlgaro` `Catalán` `Checo` `Chino (Simplificado)` `Chino (Tradicional)` `Coreano` `Croata` `Eslovaco` `Español` `Esperanto` `Estonio` `Euskera` `Filipino` `Finlandés` `Francés` `Gaélico` `Gallego` `Hindi` `Holandés` `Húngaro` `Indonesio` `Inglés` `Interlengua` `Irlandés` `Italiano` `Japonés` `Kannada` `Jemer` `Kurdo` `Malayalam` `Birmano` `Noruego` `Oriya` `Persa` `Polaco` `Portugués` `Punjabi` `Rumano` `Ruso` `Serbio` `Sueco` `Tamil` `Telugu` `Turco` `Ucraniano` `Urdu` `Vietnamita`
+`Árabe` `Azerbaiyano` `Bengalí` `Búlgaro` `Birmano` `Catalán` `Checo` `Chino (Simplificado)` `Chino (Tradicional)` `Coreano` `Croata` `Eslovaco` `Español` `Esperanto` `Estonio` `Euskera` `Fiyiano` `Filipino` `Finlandés` `Francés` `Gaélico` `Gallego` `Alemán` `Hindi` `Holandés` `Húngaro` `Indonesio` `Inglés` `Interlengua` `Irlandés` `Italiano` `Japonés` `Kannada` `Jemer` `Kurdo` `Malayalam` `Noruego` `Oriya` `Persa` `Polaco` `Portugués` `Punjabi` `Rumano` `Ruso` `Serbio` `Sueco` `Tamil` `Telugu` `Turco` `Ucraniano` `Urdu` `Vietnamita`
 
 ### Solución de problemas
 
@@ -91,14 +83,6 @@ Velqi is a music app I built to stream YouTube Music without ads, without an acc
 
 <a href="https://github.com/dieegoleo/Velqi-Music-App/releases/latest"><img src="https://github.com/anandnet/Harmony-Music/blob/main/don_github.png" width="250" alt="Get it on GitHub"/></a>
 
-| File | For |
-|------|-----|
-| `Velqi-1.0.0-arm64.apk` | Modern phones — **recommended** (2018+) |
-| `Velqi-1.0.0-armeabi-v7a.apk` | Older 32-bit phones |
-| `Velqi-1.0.0-x86_64.apk` | Emulators (BlueStacks, etc.) |
-
-Not sure which to pick? Download the `arm64` one.
-
 ### Features
 
 - No ads, ever.
@@ -126,9 +110,9 @@ As for iOS — a port is technically very difficult. iOS doesn't allow running e
 
 ### Translation
 
-Velqi supports 40+ languages. If you'd like to help improve or add a translation, edit the files in the [`localization/`](localization/) folder.
+Velqi supports 50 languages. If you'd like to help improve or add a translation, edit the files in the [`localization/`](localization/) folder.
 
-`Arabic` `Azerbaijani` `Bengali` `Bulgarian` `Catalan` `Chinese (Simplified)` `Chinese (Traditional)` `Croatian` `Czech` `Dutch` `English` `Esperanto` `Estonian` `Basque` `Fijian` `Filipino` `Finnish` `French` `Galician` `German` `Hindi` `Hungarian` `Indonesian` `Interlingua` `Irish` `Italian` `Japanese` `Kannada` `Khmer` `Korean` `Kurdish` `Burmese` `Malayalam` `Norwegian` `Oriya` `Persian` `Polish` `Portuguese` `Punjabi` `Romanian` `Russian` `Serbian` `Slovak` `Spanish` `Swedish` `Tamil` `Telugu` `Turkish` `Ukrainian` `Urdu` `Vietnamese`
+`Arabic` `Azerbaijani` `Bengali` `Bulgarian` `Burmese` `Catalan` `Chinese (Simplified)` `Chinese (Traditional)` `Croatian` `Czech` `Dutch` `English` `Esperanto` `Estonian` `Basque` `Fijian` `Filipino` `Finnish` `French` `Galician` `German` `Hindi` `Hungarian` `Indonesian` `Interlingua` `Irish` `Italian` `Japanese` `Kannada` `Khmer` `Korean` `Kurdish` `Malayalam` `Norwegian` `Oriya` `Persian` `Polish` `Portuguese` `Punjabi` `Romanian` `Russian` `Serbian` `Slovak` `Spanish` `Swedish` `Tamil` `Telugu` `Turkish` `Ukrainian` `Urdu` `Vietnamese`
 
 ### Troubleshooting
 
