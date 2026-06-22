@@ -1,4 +1,4 @@
-<img src="cover.png" width="1200" alt="Velqi — Free Music Streaming"/>
+<img src="VelqiBanner.jpg" width="1200" alt="Velqi — Free Music Streaming"/>
 
 # Velqi
 
